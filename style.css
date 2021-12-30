@@ -1,5 +1,38 @@
 body {
+  text-align: center;
   width: 100%;
   height: 100%;
   margin: 0;
+}
+nav a{
+  padding: 10px;
+  background-color: #d2b48c;
+}
+figcaption#caption{
+  font-size: 10px;
+}
+section p {
+  text-align: center;
+  margin: auto;
+  width: 800px;
+}
+.bottom1 {
+  float: left;
+  width: 25%;
+  background-color: red;
+}
+.bottom2 {
+  float: left;
+  width: 25%;
+  background-color: red;
+}
+.bottom3 {
+  float: left;
+  width: 25%;
+  background-color: red;
+}
+.bottom4 {
+  float: left;
+  width: 25%;
+  background-color: red;
 }
